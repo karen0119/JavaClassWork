@@ -5,7 +5,7 @@ public class HwAnswerTask1 {
 
         for (int i = 1; i<50; i++){
             if (i%3!=0){
-                System.out.println(i+" ");
+                System.out.print(i+" ");
             }
         }
     }
