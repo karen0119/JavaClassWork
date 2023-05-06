@@ -2,6 +2,7 @@ package class13;
 
 public class E5StringVsStringBuilder {
     public static void main(String[] args) {
+
 // Stronger builder is another way of building a string
 
         StringBuilder str = new StringBuilder("Java");
@@ -10,7 +11,7 @@ public class E5StringVsStringBuilder {
 
         String str1="Computer"; // regular string
         StringBuilder str2=new StringBuilder(str1); // change regular string to StringBuilder
-        System.out.println(str2);
+
         // prints computer
 
         str2.reverse();

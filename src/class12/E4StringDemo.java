@@ -2,7 +2,7 @@ package class12;
 
 public class E4StringDemo {
     public static void main(String[] args) {
-
+// String concat example
         String firstName="Ana";
         String lastName="Tasevska";
 
