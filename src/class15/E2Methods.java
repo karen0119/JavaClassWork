@@ -5,6 +5,7 @@ public class E2Methods {
      Create a method call it method1 print.
      In the body it should print "hello world". */
     void method1 (){
+
         System.out.println("hello world");
         }
 
