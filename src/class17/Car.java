@@ -20,7 +20,6 @@ public class Car {
     public static void main(String[] args) {
         Car car=new Car("Honda","civic",1800,"white");
         car.printInfo();
-
         // prints: Honda civic 1800 white
     }
 }
